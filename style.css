@@ -1,0 +1,26 @@
+.body_backgorund 
+{
+    background-image:url("bg.png");
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:none;
+    width:1000px;
+    height: 820px;
+    margin-top: 100px;
+}
+
+.p
+{
+    font-size: 100px;
+}
+
+.n
+{
+	background-color: rgba(32, 203, 233, 0.568);
+	display: inline-block;
+}
+
