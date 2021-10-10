@@ -56,7 +56,7 @@ console.log(keyPressed);
 	}
 	if(keyPressed == '87')
 	{
-		block_x = 1125;
+		block_x = 1225;
 		new_image('1.jpg');
 		console.log("w");
 	}
